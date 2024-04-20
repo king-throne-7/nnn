@@ -1,5 +1,4 @@
 name: poc
-
 on:
   push:
   pull_request:
